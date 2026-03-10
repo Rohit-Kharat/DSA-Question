@@ -24,7 +24,7 @@ bool isSorted(int arr[], int n) {
         }
     }
 
-    return true; // Return true if no unsorted elements are found
+    return true;
 }
 
 int main() {
