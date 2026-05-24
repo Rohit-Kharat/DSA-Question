@@ -1,0 +1,11 @@
+# Ignore build artifacts and editor files
+*.exe
+*.out
+*.o
+*.obj
+build/
+bin/
+.vscode/
+*.log
+Thumbs.db
+.DS_Store
